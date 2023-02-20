@@ -52,3 +52,13 @@ h1 {
     transform: rotate(25deg);
     margin: 30px;
 }
+
+/*Features Section */
+
+#features {
+    padding: 7% 15%;
+}
+
+.feature-box {
+    text-align: center;
+}
