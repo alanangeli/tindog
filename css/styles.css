@@ -19,6 +19,15 @@ h1 {
   
 }
 
+h3 {
+    font-family: "Montserrat-Bold";
+    font-weight: bolder;
+}
+
+p {
+    color: #8f8f8f;
+}
+
 .navbar {
     padding-bottom: 0 0 4.5rem;
 }
@@ -61,4 +70,5 @@ h1 {
 
 .feature-box {
     text-align: center;
+    padding: 5%;
 }
