@@ -99,9 +99,13 @@ p {
 }
 
 .doguito {
-    width: 10%;
+    width: 20%;
     border-radius: 100%;
     margin: 20px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
 }
 
 #press {
