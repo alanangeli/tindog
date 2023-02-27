@@ -28,6 +28,7 @@ h2 {
 h3 {
     font-family: "Montserrat-Bold";
     font-weight: bolder;
+    
 }
 
 p {
@@ -46,11 +47,12 @@ p {
 }
 
 .nav-item {
-    padding: 0 18px;
+    padding: 18px 18px 50px 0;
 }
 .nav-link {
     font-family: "Montserrat-Light";
-    font-size: 1.2rem;
+    font-size: 1.5rem;
+    font-weight: bold;
 
 }
 
@@ -72,6 +74,7 @@ p {
 
 #features {
     padding: 7% 15%;
+    background-color: #fff;
 }
 
 .feature-box {
@@ -120,3 +123,34 @@ p {
     margin: 20px 20px 50px;
     
 }
+
+/*Pricing*/
+
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-column{
+    padding: 3% 2%;
+}
+
+/*Call Action*/
+
+#cta{
+    text-align: center;
+    background-color: #ff4c68;
+    padding: 4% 0 0 4%;
+    
+    
+    
+}
+
+.cta-class {
+    color:#fff;
+    margin: 20px 200px 0px;
+    text-align: center;
+    
+}
+
+
