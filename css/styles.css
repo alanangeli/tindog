@@ -65,9 +65,10 @@ p {
 /*Title Image*/
 
 .title-image {
-    width: 60%;
+    width: 20%;
     transform: rotate(25deg);
-    margin: 30px;
+    margin: 0 160px;
+    position: absolute;
 }
 
 /*Features Section */
@@ -75,6 +76,8 @@ p {
 #features {
     padding: 7% 15%;
     background-color: #fff;
+    position: relative;
+    z-index: 1;
 }
 
 .feature-box {
@@ -152,5 +155,7 @@ p {
     text-align: center;
     
 }
+
+
 
 
