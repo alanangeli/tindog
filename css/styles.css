@@ -110,6 +110,11 @@ p {
 
 }
 
+.testimonial-text {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
 .doguito {
     width: 20%;
     border-radius: 100%;
@@ -138,6 +143,11 @@ p {
 #pricing {
     padding: 100px;
     text-align: center;
+}
+
+.pricing-text {
+    font-size: 3rem;
+    line-height: 1.5;
 }
 
 .pricing-column{
